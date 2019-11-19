@@ -9,7 +9,7 @@
 3. When I feel overwhelmed...
    - _Remember that complex problem is just a compound of simple ones._
    
-## TIL:
+## Coders Computer:
 1. Markdown:
    - A simple text editor built into GitHub that allows you to create a text document in multiple ways.
    - Provides a list of themes that provide a template and graphics to better present a document.
@@ -27,3 +27,6 @@
 5. Text Editors:
    - Text editors allow you to find sytax errors in code without having to run or debug saving time.
    - They can provide a lot of useful tools through extension including formats that reduce eye strain.
+   
+## Revisions and the Cloud"
+1. 
