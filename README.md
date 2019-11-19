@@ -1,4 +1,4 @@
-# ***Growth Mindset***
+# ***Growth Mindset*** & dragonflu
 - Approaching every problem as an opportunity to learn
 
 ## Reminders:
