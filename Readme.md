@@ -15,3 +15,4 @@ This journal will be a source of information to help me through the class
 ## Table of Contents
 1. [Coders Computer](https://kyllo34.github.io/learning-journal/Coders-Computer.md)
 2. [Revisions Could](https://kyllo34.github.io/learning-journal/Revisions-Cloud.md)
+3. [HTML & CSS](https://kyllo34.github.io/learning-journal/HTML-CSS)
