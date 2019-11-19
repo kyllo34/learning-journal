@@ -13,4 +13,5 @@ This journal will be a source of information to help me through the class
    - _Remember that complex problem is just a compound of simple ones._
    
 ## Table of Contents
-[Revisons]()
+[Revisons Cloud](Revision-cloud.md)
+[Coders Computer](Coders-Computer.md)
