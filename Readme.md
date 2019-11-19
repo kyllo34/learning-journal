@@ -13,3 +13,5 @@ This journal will be a source of information to help me through the class
    - _Remember that complex problem is just a compound of simple ones._
    
 ## Table of Contents
+[Coders Computer](https://kyllo34.github.io/learning-journal/Coders-Computer.md)
+[Revisions Could](https://kyllo34.github.io/learning-journal/Revisions-Cloud.md)
