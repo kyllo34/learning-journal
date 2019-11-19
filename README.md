@@ -9,7 +9,7 @@
 3. When I feel overwhelmed...
    - _Remember that complex problem is just a compound of simple ones._
    
-##TIL:
+## TIL:
 1. Markdown:
    - A simple text editor built into GitHub that allows you to create a text document in multiple ways.
    - Provides a list of themes that provide a template and graphics to better present a document.
