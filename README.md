@@ -1,4 +1,4 @@
-# ***Growth & Mindset*** 
+# ***Growth Mindset*** 
 - Approaching every problem as an opportunity to learn
 
 ## Reminders:
@@ -6,7 +6,7 @@
    - ***Remember that putting in more effort and time will always lead to success.***
 2. When someone else is doing better than me...
    - *Remember that everyone learns at different paces and specialize in different aspects of life.*
-3. When I feel overwhelmed...
+& 3. When I feel overwhelmed...
    - _Remember that complex problem is just a compound of simple ones._
    
 ## TIL:
