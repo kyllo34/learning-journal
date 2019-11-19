@@ -17,4 +17,5 @@
    - Text editors allow you to find sytax errors in code without having to run or debug saving time.
    - They can provide a lot of useful tools through extension including formats that reduce eye strain.
   
+  
 [Back](https://kyllo34.github.io/learning-journal/Readme.md)
