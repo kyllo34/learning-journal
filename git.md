@@ -7,4 +7,14 @@
   2. Git
     A DVCS stores data in a file system made up of snap shots
      - Commits, modifies, and stages file changes
-     - 
+     - Can clone repository
+     - Can view remote URLs using git <remote -v>
+        ```$ cd example
+           $ git remote -v
+           remote1 https://github.com/remote1/example (fetch)
+           remote1 https://github.com/remote1/example (push)
+           remote2 https://github.com/remote2/example (fetch)
+           remote2 https://github.com/remote2/example (push)
+           remote3 https://github.com/remote3/example (fetch)
+           remote3 https://github.com/remote3/example (push)
+```
