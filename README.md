@@ -1,5 +1,5 @@
 # ***Growth Mindset***
-- Approaching every problem as an opportunity to learn
+&- Approaching every problem as an opportunity to learn
 
 ## Reminders:
 1. When I get frustrated...
