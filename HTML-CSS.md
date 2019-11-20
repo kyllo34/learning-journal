@@ -8,18 +8,18 @@
     - Clear & concise navigation
 2. Structure
     - HTML uses elements to describe the structure of a webpage
-    - <p> and </p> are opening and closing tags
+    - &lt;p&gt; and &lt;/p&gt; are opening and closing tags
     - Attributes provide addition information abou the contents of an element and appear in the opening tag. They have a name and value.
-    - <p lang="em-us">Paragraph in English</p>
+    - &lt;p lang="em-us"&gt;Paragraph in English &lt;/p&gt;
 3. HTML 5
-    - Replaces <div> elements with more specific ones i.e. <header> & <footer>
-    - <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated
-    - <aside> element has two functions depending on if it is inside or outside an <article>
-    - <section> groups related content together
+    - Replaces &lt;div&gt; elements with more specific ones i.e. &lt;header&gt; & &lt;footer&gt;
+    - &lt;article&gt; element acts as a container for any section of a page that could stand alone and potentially be syndicated
+    - &lt;aside&gt; element has two functions depending on if it is inside or outside an &lt;article&gt;
+    - &lt;section&gt; groups related content together
     - New HTML 5 elemts indicate the purpose of different parts of a web page 
 4. Extra Markup
     - HTML 5 uses the same format as XHTML which allows it to run its code
-    - <!-- --> denotes a comment in HTML 5
-    - Block elements such as <h1>, <p,>, and <ul> start a new line
+    - &lt;!-- --&gt; denotes a comment in HTML 5
+    - Block elements such as &lt;h1&gt;, &lt;p,&gt;, and &lt;ul&gt; start a new line
     - Inline elements will continue on the same line
     - frames insert a window 
