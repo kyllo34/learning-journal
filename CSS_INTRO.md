@@ -24,3 +24,5 @@
     - ```!important``` after any property denotes precedence
 3. Inheretance
     - If you specify the properties of a parent element the, they will apply to most of the child elements
+
+[Back](https://kyllo34.github.io/learning-journal/Readme)
