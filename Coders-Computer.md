@@ -18,4 +18,4 @@
    - They can provide a lot of useful tools through extension including formats that reduce eye strain.
   
   
-[Back](https://kyllo34.github.io/learning-journal/Readme)
+[Back](https://kyllo34.github.io/learning-journal/Readme.md)

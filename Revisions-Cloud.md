@@ -19,4 +19,4 @@
            remote3 https://github.com/remote3/example (push)
 ```
 
-[Back](https://kyllo34.github.io/learning-journal/Readme)
+[Back](https://kyllo34.github.io/learning-journal/Readme.md)
