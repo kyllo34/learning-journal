@@ -8,7 +8,7 @@
     - Clear & concise navigation
 2. Structure
     - HTML uses elements to describe the structure of a webpage
-    - & <p> and </p> are opening and closing tags
+    - <p> and </p> are opening and closing tags
     - Attributes provide addition information abou the contents of an element and appear in the opening tag. They have a name and value.
     - <p lang="em-us">Paragraph in English</p>
 3. HTML 5
