@@ -33,10 +33,13 @@
 5. Functions
     Let you group a series of statements together to perform a specific task
     1. Declaring a function
-        ```function sayHello(){
+        ```
+        function sayHello(){
             document.write('Hello!');
         }
         ```
     2. Calling function
-        ```sayHello();
+        ```
+        sayHello();
+        ```
 
