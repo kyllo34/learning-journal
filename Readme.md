@@ -19,3 +19,4 @@ This journal will be a source of information to help me through the class
 4. [What i learned](https://kyllo34.github.io/learning-journal/learnt)
 5. [CSS Intro](https://kyllo34.github.io/learning-journal/CSS_INTRO)
 6. [Read7](https://kyllo34.github.io/learning-journal/Read07)
+7. [Read8](https://kyllo34.github.io/learning-journal/Read08)
